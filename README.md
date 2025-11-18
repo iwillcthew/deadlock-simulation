@@ -117,6 +117,9 @@ Giao diện này mô phỏng thuật toán Banker để tránh deadlock.
 ```
 
 ## Cách chạy
+```bash
+python main.py
+```
 
 **Yêu cầu hệ thống:**
 - Python 3.6 trở lên
